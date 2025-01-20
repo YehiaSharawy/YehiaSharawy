@@ -15,12 +15,12 @@
 
 * 📖 Pursuing BEng. in Computer Engineering @ [Arab Academy for Science, Technology, & Maritime Transport](https://aast.edu/en/index.php). 
 
-* 💻 Currently working on Automatic Segmentation and Classification of Cardiovascular Artery Disease through Calcium Scoring 🫀.
+* 💻 Currently working on Automatic Segmentation and Classification of Cardiovascular Artery Disease through Calcium Scoring🫀.
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YehiaShaarawy&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YehiaShaarawy&theme=transparent) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YehiaShaarawy&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YehiaShaarawy&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YehiaShaarawy&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YehiaShaarawy&theme=transparent)
 </div>
