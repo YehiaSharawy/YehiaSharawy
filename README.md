@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YehiaShaarawy">
+  <a href="https://github.com/YehiaSharawy">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&center=true&size=21&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yehia+Shaarawy;BEng.+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision" alt="Typing SVG" /> </a>
 <br/>
   <a href="mailto:yehiamostafa8@gmail.com">
@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YehiaShaarawy&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YehiaSharawy&theme=transparent) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YehiaShaarawy&theme=transparent) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YehiaShaarawy&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YehiaSharawy&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YehiaSharawy&theme=transparent)
 </div>
