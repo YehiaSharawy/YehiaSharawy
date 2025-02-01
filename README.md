@@ -13,7 +13,7 @@
   </a>
 </p>
 
-* 📖 Pursuing BSc in Computer Engineering @ [Arab Academy for Science, Technology, & Maritime Transport](https://aast.edu/en/index.php). 
+* 📖 Pursuing BSc in Computer Engineering @ [AASTMT](https://aast.edu/en/index.php). 
 
 * 💻 Currently working on Automatic Segmentation and Classification of Cardiovascular Artery Disease through Calcium Scoring🫀.
 
