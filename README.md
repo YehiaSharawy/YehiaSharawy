@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/YehiaSharawy">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&center=true&size=21&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yehia+Shaarawy;BEng.+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision" alt="Typing SVG" /> </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&center=true&size=21&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yehia+Sharawy;BSc+Senior Year Student+%7C+Software+Engineer;AI+%7C+Computer+Vision" alt="Typing SVG" /> </a>
 <br/>
   <a href="mailto:yehiamostafa8@gmail.com">
       <img src="https://img.shields.io/badge/-Email-b22222?style=flat-square&logo=gmail&logoColor=white">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-* 📖 Pursuing BEng. in Computer Engineering @ [Arab Academy for Science, Technology, & Maritime Transport](https://aast.edu/en/index.php). 
+* 📖 Pursuing BSc in Computer Engineering @ [Arab Academy for Science, Technology, & Maritime Transport](https://aast.edu/en/index.php). 
 
 * 💻 Currently working on Automatic Segmentation and Classification of Cardiovascular Artery Disease through Calcium Scoring🫀.
 
