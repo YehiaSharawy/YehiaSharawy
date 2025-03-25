@@ -23,6 +23,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
+<img src="https://img.shields.io/badge/Java-E01F3D?style=for-the-badge&labelColor=black&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/RUST-E34F26?style=for-the-badge&logo=rust&logoColor=white">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YehiaSharawy&theme=transparent) 
 
