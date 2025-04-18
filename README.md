@@ -32,3 +32,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YehiaSharawy&theme=transparent) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YehiaSharawy&theme=transparent)
 </div>
+
+<div align="center">
+  <h1>Sample of my Work</h1>
+  
+  ![SCR-20250418-rzop 2 | 200](https://github.com/user-attachments/assets/ca20f8bf-dd69-48af-b475-7531808c2c3f)
+</div>
+
