@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/YehiaSharawy">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&center=true&size=21&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yehia+Sharawy;BSc+Senior Year Student+%7C+Software+Engineer;AI+%7C+Computer+Vision" alt="Typing SVG" /> </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=2000&pause=100&color=F3F6F9&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Yehia+Sharawy;BSc.+Senior+Comp.+Eng.+Student" alt="Typing SVG" />
+  </a>
 <br/>
   <a href="mailto:yehiamostafa8@gmail.com">
       <img src="https://img.shields.io/badge/-Email-b22222?style=flat-square&logo=gmail&logoColor=white">
