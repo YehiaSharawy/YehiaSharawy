@@ -20,13 +20,18 @@
 
 <div align="center">
 <h1>👨‍💻 SKILLS 👨‍💻</h1>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 <img src="https://img.shields.io/badge/Java-E01F3D?style=for-the-badge&labelColor=black&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/RUST-E34F26?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
+<img src="https://img.shields.io/badge/SVELTE-E34F26?style=for-the-badge&logo=svelte&logoColor=white">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YehiaSharawy&theme=transparent) 
 
