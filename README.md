@@ -16,8 +16,7 @@
 
 * 🎓 BSc in Computer Engineering @ [AASTMT](https://aast.edu/en/index.php), Graduated 2025. 
 
-* 🚀 Participated in the 9th Internation Competition Military Techincal College ICMTC 2025 UAV Challenge – 🥇1st place nationally,  
-🥈2nd place globally.
+* 🚀 Participated in the 9th Internation Competition Military Techincal College ICMTC 2025 UAV Challenge – 🥇1st place nationally, 🥈2nd place globally.
 
 <div align="center">
 <h1>👨‍💻 SKILLS 👨‍💻</h1>
