@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/YehiaSharawy">
-    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=2000&pause=100&color=F3F6F9&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Yehia+Sharawy;Senior+Comp.+Eng.+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=2000&pause=100&color=FFD464&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Yehia+Sharawy;Computer+Engineer" alt="Typing SVG" />
   </a>
 <br/>
   <a href="mailto:yehiamostafa8@gmail.com">
@@ -14,9 +14,10 @@
   </a>
 </p>
 
-* 📖 Pursuing BSc in Computer Engineering @ [AASTMT](https://aast.edu/en/index.php). 
+* 🎓 BSc in Computer Engineering @ [AASTMT](https://aast.edu/en/index.php), Graduated 2025. 
 
-* 💻 Currently working on Automatic Segmentation and Classification of Cardiovascular Artery Disease through Calcium Scoring🫀.
+* 🚀 Participated in the 9th Internation Competition Military Techincal College ICMTC 2025 UAV Challenge – 🥇1st place nationally,  
+🥈2nd place globally.
 
 <div align="center">
 <h1>👨‍💻 SKILLS 👨‍💻</h1>
