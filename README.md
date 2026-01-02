@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/YehiaSharawy">
-    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=2000&pause=100&color=FFD464&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Yehia+Sharawy;Avionics+R%26D+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=2000&pause=100&color=FFD464&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Yehia+Sharawy;UAV+Avionics+R%26D+Engineer" alt="Typing SVG" />
   </a>
 <br/>
   <a href="mailto:yehiamostafa8@gmail.com">
